@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>孤芒星河的博客</title>
+  
+  <subtitle>屑</subtitle>
+  <link href="http://gmxh.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://gmxh.github.io/"/>
+  <updated>2022-05-18T13:23:48.966Z</updated>
+  <id>http://gmxh.github.io/</id>
+  
+  <author>
+    <name>GMXH</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「笔记」数学知识——质数与约数</title>
+    <link href="http://gmxh.github.io/2022/05/18/Math-1/"/>
+    <id>http://gmxh.github.io/2022/05/18/Math-1/</id>
+    <published>2022-05-18T13:04:52.000Z</published>
+    <updated>2022-05-18T13:23:48.966Z</updated>
+    
+    
+    <summary type="html">&lt;h1&gt;数学知识——质数与约数&lt;/h1&gt;
+&lt;p&gt;大概是数学的学习笔记吧，模板、公式之类的太多太杂，于是在这里稍作总结。&lt;br&gt;
+这里是第一篇，之后还会更新…&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="http://gmxh.github.io/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="数学" scheme="http://gmxh.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    
+  </entry>
+  
+</feed>
