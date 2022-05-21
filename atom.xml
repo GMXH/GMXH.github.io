@@ -6,7 +6,7 @@
   <link href="http://gmxh.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmxh.github.io/"/>
-  <updated>2022-05-19T13:28:24.474Z</updated>
+  <updated>2022-05-21T11:36:25.862Z</updated>
   <id>http://gmxh.github.io/</id>
   
   <author>
@@ -21,11 +21,12 @@
     <link href="http://gmxh.github.io/2022/05/19/math-2/"/>
     <id>http://gmxh.github.io/2022/05/19/math-2/</id>
     <published>2022-05-19T05:57:51.000Z</published>
-    <updated>2022-05-19T13:28:24.474Z</updated>
+    <updated>2022-05-21T11:36:25.862Z</updated>
     
     
     <summary type="html">&lt;h1&gt;同余&lt;/h1&gt;
 &lt;p&gt;大概是刚学会用 &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;LaTeX&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\LaTeX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;base&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.89883em;vertical-align:-0.2155em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord text&quot;&gt;&lt;span class=&quot;mord textrm&quot;&gt;L&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:-0.36em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;vlist-t&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.68333em;&quot;&gt;&lt;span style=&quot;top:-2.904999em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:2.7em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord textrm mtight sizing reset-size6 size3&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:-0.15em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord text&quot;&gt;&lt;span class=&quot;mord textrm&quot;&gt;T&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:-0.1667em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;vlist-t vlist-t2&quot;&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.46782999999999997em;&quot;&gt;&lt;span style=&quot;top:-2.7845em;&quot;&gt;&lt;span class=&quot;pstrut&quot; style=&quot;height:3em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord textrm&quot;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-s&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist-r&quot;&gt;&lt;span class=&quot;vlist&quot; style=&quot;height:0.2155em;&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mspace&quot; style=&quot;margin-right:-0.125em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord textrm&quot;&gt;X&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 和 markdown 然后敲上瘾了，于是出现了第二篇 blog，也许之后就再也不想写笔记了（逃&lt;br&gt;
+也许会时不时补充知识点…&lt;br&gt;
 &lt;s&gt;好像离自己抄代码的本意越来越远了&lt;/s&gt;&lt;/p&gt;</summary>
     
     
@@ -42,11 +43,11 @@
     <link href="http://gmxh.github.io/2022/05/18/Math-1/"/>
     <id>http://gmxh.github.io/2022/05/18/Math-1/</id>
     <published>2022-05-18T13:04:52.000Z</published>
-    <updated>2022-05-19T12:48:00.257Z</updated>
+    <updated>2022-05-21T08:25:23.331Z</updated>
     
     
     <summary type="html">&lt;h1&gt;质数与约数&lt;/h1&gt;
-&lt;p&gt;大概是数学的学习笔记吧，模板、公式之类的太多太杂，于是在这里稍作总结。 &lt;s&gt;并不是想直接复制粘贴现成的模板&lt;/s&gt;&lt;br&gt;
+&lt;p&gt;大概是数学的学习笔记吧，模板、公式之类的太多太杂，于是在这里稍作总结。 &lt;s&gt;才不是想直接复制粘贴现成的模板&lt;/s&gt;，不会有太详细的证明过程。&lt;br&gt;
 这里是第一篇，之后还会更新…&lt;/p&gt;</summary>
     
     
