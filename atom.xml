@@ -6,7 +6,7 @@
   <link href="http://gmxh.github.io/atom.xml" rel="self"/>
   
   <link href="http://gmxh.github.io/"/>
-  <updated>2022-05-21T11:54:37.329Z</updated>
+  <updated>2022-05-25T13:19:36.997Z</updated>
   <id>http://gmxh.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>「题解」水题集</title>
+    <link href="http://gmxh.github.io/2022/05/25/question-water1/"/>
+    <id>http://gmxh.github.io/2022/05/25/question-water1/</id>
+    <published>2022-05-25T12:44:49.000Z</published>
+    <updated>2022-05-25T13:19:36.997Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;这篇博客专门拿来存放一些简单题的题解，&lt;s&gt;水洛谷题解用的&lt;/s&gt;，右上角可以快速定位题目，还是希望能对大家有些帮助（指找到了一堆水题）&lt;br&gt;
+本博客持续更新中…&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="题解" scheme="http://gmxh.github.io/categories/%E9%A2%98%E8%A7%A3/"/>
+    
+    
+    <category term="简单题" scheme="http://gmxh.github.io/tags/%E7%AE%80%E5%8D%95%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>「笔记」数学知识——同余</title>
